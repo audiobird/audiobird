@@ -14,7 +14,7 @@ I've created some new instruments for MPC1000 and 2500 users with JJOS. The cool
 All of the treble sounds were sampled from a Yamaha PSS-460 Synthesizer and were named based on their preset. Same with the bass sounds, but I picked names for them.
 
 Here are the demos with individual download links:  
->*link to zip file of the entire pack can be found at the bottom of the page.*
+*link to zip file of the entire pack can be found at the bottom of the page.*
 
 &nbsp;
 
@@ -82,9 +82,9 @@ Finally, there is [Koto](/assets/mpc-programs/I-Koto.PAC) along with the [Saxoph
 &nbsp;
 
 [**Download all instruments here**](/assets/mpc-programs/audiobird-mpc-programs.zip)  
-(*1.3 mB zipped folder*)  
+>(*1.3 mB zipped folder*)  
 
-##Enjoy!
+## Enjoy!
 
 
 
