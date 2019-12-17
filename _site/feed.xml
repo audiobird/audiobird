@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-12-16T21:56:33-08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Audiobird</title><subtitle>Sound From Some Source.  Music, Production, Synthesizers, Speakers, Stuff.</subtitle><entry><title type="html">Music &amp;amp; Talk isn’t your Average Podcast</title><link href="http://localhost:4000/2019/12/15/music-n-talk.html" rel="alternate" type="text/html" title="Music &amp; Talk isn't your Average Podcast" /><published>2019-12-15T00:00:00-08:00</published><updated>2019-12-15T00:00:00-08:00</updated><id>http://localhost:4000/2019/12/15/music-n-talk</id><content type="html" xml:base="http://localhost:4000/2019/12/15/music-n-talk.html">&lt;h2 id=&quot;music--talk&quot;&gt;Music &amp;amp; Talk&lt;/h2&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/wUy7cbozazA&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;em&gt;Music &amp;amp; Talk&lt;/em&gt; came to light as a beautiful fluke. My childhood friends and now current roommates were sitting in my bedroom chatting while I was poking around on my synthesizer. Little did they know, I was recording everything! The introductory episode to &lt;a href=&quot;#&quot; title=&quot;bum link&quot;&gt;&lt;em&gt;Season 0: “Technical Difficulties”&lt;/em&gt;&lt;/a&gt; begins with our hosts suddenly realizing they were being recorded.&lt;br /&gt;
+Check out the brief snippet&lt;/p&gt;
+
+&lt;p&gt;/assets/audio/musicntalksnip.mp3?controls=1&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;p&gt;As far as we know, Music &amp;amp; Talk is the first podcast EVER to have live produced music for the entirety of the show.&lt;/p&gt;</content><author><name>can</name></author><summary type="html">Music &amp;amp; Talk</summary></entry><entry><title type="html">Jaw Harp (Oscilliscope Music Video)</title><link href="http://localhost:4000/2019/10/17/jaw-harp-song.html" rel="alternate" type="text/html" title="Jaw Harp (Oscilliscope Music Video)" /><published>2019-10-17T00:00:00-07:00</published><updated>2019-10-17T00:00:00-07:00</updated><id>http://localhost:4000/2019/10/17/jaw-harp-song</id><content type="html" xml:base="http://localhost:4000/2019/10/17/jaw-harp-song.html">&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/7jHV7Nb7AjY&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Here’s a weird song I made sampling a friend playing a jaw harp and making weird noises. The jaw harp sounds are heavily manipulated. Every tonal aspect of the song, with the exception of the obvious vocal samples, were made from typical jaw harp sounds.
+The high hat sound is also from the jaw harp bouncing off her teeth… Kind of painful to think about.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/tv-scope.jpg&quot; alt=&quot;album-cover-photo&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The music video was made by feeding isolated tracks from the song into a TV modded to behave similar to an oscilliscope. Easy album artwork too!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/jaw-harp-album.jpg&quot; alt=&quot;album-cover-photo&quot; /&gt;&lt;/p&gt;
+
+&lt;iframe style=&quot;border: 0; width: 100%; height: 120px;&quot; src=&quot;https://bandcamp.com/EmbeddedPlayer/track=3197270734/size=large/bgcol=333333/linkcol=0f91ff/tracklist=false/artwork=small/transparent=true/&quot; seamless=&quot;&quot;&gt;&lt;a href=&quot;http://can-trell.bandcamp.com/track/jaw-harp&quot;&gt;Jaw Harp by Can Trell&lt;/a&gt;&lt;/iframe&gt;</content><author><name>can</name></author><summary type="html"></summary></entry><entry><title type="html">Yamaha PSS-460 Samples for MPC1000</title><link href="http://localhost:4000/2019/10/06/Yamaha-Samples.html" rel="alternate" type="text/html" title="Yamaha PSS-460 Samples for MPC1000" /><published>2019-10-06T00:00:00-07:00</published><updated>2019-10-06T00:00:00-07:00</updated><id>http://localhost:4000/2019/10/06/Yamaha-Samples</id><content type="html" xml:base="http://localhost:4000/2019/10/06/Yamaha-Samples.html">&lt;p&gt;&lt;img src=&quot;/assets/pss460.jpg&quot; alt=&quot;Yamaha-photo&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Vintage 80’s digital synthesizer samples!&lt;/p&gt;
+
+&lt;p&gt;This morning I sampled my Yamaha PSS-460 to create some quick access MPC instrument programs. Each preset was sampled five times (five octaves of “C”) for a total of 135 samples for 27 instrument programs. 
+These work with JJOS2xl and possibly other JJOS variants.&lt;br /&gt;
+Each Sample was recorded as a brief “stab” with sustain active on the synthesizer.&lt;br /&gt;
+Most of these sounds decay rather quickly.&lt;br /&gt;
+Currently, all of the programs aren’t edited any further than just having the samples loaded in and the note ranges mapped.&lt;/p&gt;
+
+&lt;p&gt;In the near future, I plan to record the presets again while HOLDING the keys down in order to loop and sustain each preset on the MPC.&lt;/p&gt;
+
+&lt;p&gt;Sound demos coming in the near future, currently I haven’t used them yet.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;NOTE:&lt;/strong&gt; These samples are somewhat noisy due to the synthesizer’s natural sound.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/assets/PSS-Stabs.zip&quot;&gt;&lt;strong&gt;A zip of all the files is available for download HERE&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;</content><author><name>can</name></author><summary type="html"></summary></entry><entry><title type="html">Electronic Mix</title><link href="http://localhost:4000/2019/10/03/Electronic-Mix.html" rel="alternate" type="text/html" title="Electronic Mix" /><published>2019-10-03T00:00:00-07:00</published><updated>2019-10-03T00:00:00-07:00</updated><id>http://localhost:4000/2019/10/03/Electronic-Mix</id><content type="html" xml:base="http://localhost:4000/2019/10/03/Electronic-Mix.html">&lt;p&gt;Here’s a few electronic songs. Everything was produced with an MPC1000 and mostly synthesized with a “toy” Yamaha PSS-460 synthesizer.&lt;/p&gt;
+
+&lt;p&gt;Enjoy!&lt;/p&gt;
+
+&lt;iframe style=&quot;border: 0; width: 350px; height: 470px;&quot; src=&quot;https://bandcamp.com/EmbeddedPlayer/album=559139713/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/&quot; seamless=&quot;&quot;&gt;&lt;a href=&quot;http://can-trell.bandcamp.com/album/electronic-mix&quot;&gt;Electronic Mix by Can Trell&lt;/a&gt;&lt;/iframe&gt;</content><author><name>can</name></author><summary type="html">Here’s a few electronic songs. Everything was produced with an MPC1000 and mostly synthesized with a “toy” Yamaha PSS-460 synthesizer.</summary></entry><entry><title type="html">MPC1000 Sound Design</title><link href="http://localhost:4000/2019/07/10/MPC1000-Sound-Design.html" rel="alternate" type="text/html" title="MPC1000 Sound Design" /><published>2019-07-10T00:00:00-07:00</published><updated>2019-07-10T00:00:00-07:00</updated><id>http://localhost:4000/2019/07/10/MPC1000-Sound-Design</id><content type="html" xml:base="http://localhost:4000/2019/07/10/MPC1000-Sound-Design.html">&lt;p&gt;I’m constantly surprised with the sound the MPC can produce, and this is one of the coolest patches I’ve made yet. I should note that I’m using &lt;strong&gt;JJOS 2XL&lt;/strong&gt;. Ask anyone, it’s worth 100 bucks.&lt;/p&gt;
+
+&lt;p&gt;Here’s how I did it:&lt;/p&gt;
+
+&lt;p&gt;First, find a sample. I recommend a note that either is substantially sustained or can be seamlessly looped. The sound I used was very simple, just to see if this idea was going to work (it worked). I’m sure this would be even cooler if a more dynamic sound was used.
+Take the sample and hit &lt;strong&gt;Shift + ALL&lt;/strong&gt; and load it into every slot on a fresh program. Continue holding Shift and smash that &lt;strong&gt;CHROM.&lt;/strong&gt; button. &lt;br /&gt;
+This will chromatically tune the sample across the pads. &lt;em&gt;DUH&lt;/em&gt;&lt;br /&gt;
+By the way, this wont work if you create an instrument program. The reason why is because a drum program can have an LFO assigned to individual pads.&lt;br /&gt;
+Keep the play mode on &lt;strong&gt;POLY&lt;/strong&gt; if you want to play fatty chords.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/mpc2.BMP&quot; alt=&quot;Program-photo&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I forgot to screen shot the AMP screen, but just set your envelope across all the pads. In my example I think the attack and release were set around 50.&lt;br /&gt;
+Next head over to the filter screen and setup a filter. As you can see I chose bandpass with some resonance. You can choose whatever you want, doesn’t matter, just make sure it sounds decent across all the pads. I added some decay for flavor.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/mpc3.BMP&quot; alt=&quot;Filter-photo&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Move on to the &lt;strong&gt;LFO&lt;/strong&gt; menu. This is where it becomes a pain in the ass. I created a pattern with the &lt;strong&gt;WAVE FORM&lt;/strong&gt; column starting at pad A01. It goes &lt;em&gt;SAW, SAW, TRIANGLE, SAW, SAWDOWN&lt;/em&gt; and repeats till the last note.&lt;br /&gt;
+Same for the RATE column with the pattern of &lt;em&gt;6, 8, 6, 4&lt;/em&gt;. Each whole number representing that many bars per oscillation, I think.&lt;br /&gt;
+Set the filter amount wherever sounds good. Don’t just copy mine make your own. My program will be available for download at the bottom.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/mpc4.BMP&quot; alt=&quot;LFO-photo&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Again, no photo, but I added a ton of reverb. Do so as you please.&lt;br /&gt;
+I messed around for a ridiculously long time just playing huge chords. Heres what it sounds like:&lt;/p&gt;
+
+&lt;iframe width=&quot;100%&quot; height=&quot;166&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; allow=&quot;autoplay&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/649418921&amp;amp;color=%23ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&amp;amp;show_teaser=true&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Messing with the PITCH comes out pretty tight too&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/mpc5.BMP&quot; alt=&quot;Pitch-photo&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Check it out:&lt;/p&gt;
+
+&lt;iframe width=&quot;100%&quot; height=&quot;166&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; allow=&quot;autoplay&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/649419563&amp;amp;color=%23ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&amp;amp;show_teaser=true&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Play around. Send me what you create.&lt;br /&gt;
+One downside to doing this is the MPC can get a little pissy from all the oscillating. Just resample and forget about it.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/assets/tut.PGM&quot;&gt;&lt;strong&gt;Download for the program I setup above, HERE&lt;/strong&gt;&lt;/a&gt;&lt;br /&gt;
+Load your own sound into it!&lt;/p&gt;</content><author><name>can</name></author><summary type="html">I’m constantly surprised with the sound the MPC can produce, and this is one of the coolest patches I’ve made yet. I should note that I’m using JJOS 2XL. Ask anyone, it’s worth 100 bucks.</summary></entry></feed>

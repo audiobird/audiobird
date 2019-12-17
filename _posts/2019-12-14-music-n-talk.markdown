@@ -1,0 +1,30 @@
+---
+layout: post
+title:  "Music & Talk isn't your Average Podcast"
+date:   2019-12-15
+author: can
+---
+## Music & Talk  
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wUy7cbozazA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+
+
+  
+*Music & Talk* came to light as a beautiful fluke. My childhood friends and now current roommates were sitting in my bedroom chatting while I was poking around on my synthesizer. Little did they know, I was recording everything! The introductory episode to [*Season 0: "Technical Difficulties"*](# "bum link") begins with our hosts suddenly realizing they were being recorded.  
+Check out the brief snippet  
+
+
+
+/assets/audio/musicntalksnip.mp3?controls=1
+
+
+
+
+***  
+
+&nbsp;
+
+
+
+As far as we know, Music & Talk is the first podcast EVER to have live produced music for the entirety of the show.
+
