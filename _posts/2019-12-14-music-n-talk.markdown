@@ -26,5 +26,10 @@ Check out the brief snippet
 
 
 
-As far as we know, Music & Talk is the first podcast EVER to have live produced music for the entirety of the show.
+As far as we know, Music & Talk is the first podcast EVER to have live produced music for the entirety of the show. It's pretty exciting for us to be offering something new to the podcast world. Currently, we are in the process of learning how to achieve the best production quality with our
+ resources. *Season 0: "Technical Difficulties* will be released in full as soon as we stop having, you guessed it, technical difficulties. I invite you to give us a listen once we begin Season 1 (soon) so you can observe how our host's
+ conversation mixed with my production combine synergistically.
+
+**UPDATED 12/16**  
+
 
