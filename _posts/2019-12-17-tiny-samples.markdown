@@ -10,7 +10,7 @@ author: can
 
 
   
-I've created some new instruments for MPC1000 and 2500 users with JJOS. The cool part about these ones is they're extremely small, and take up almost no RAM. (*2.17 mB*)  
+I've created some new instruments for MPC1000 and 2500 users with JJOS. The cool part about these ones is they're extremely small, and take up almost no RAM. (*2.17 mB*) 16 bit audio!  
 All of the treble sounds were sampled from a Yamaha PSS-460 Synthesizer and were named based on their preset. Same with the bass sounds, but I picked names for them.
 
 Here are the demos with individual download links:  
