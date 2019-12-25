@@ -30,6 +30,5 @@ As far as we know, Music & Talk is the first podcast EVER to have live produced 
  resources. *Season 0: "Technical Difficulties"* will be released in full as soon as we stop having, you guessed it, technical difficulties. I invite you to give us a listen once we begin Season 1 (soon) so you can observe how our host's
  conversation mixed with my production combine synergistically.
 
-**UPDATED 12/16**  
 [**Season 1 is here!**]({% post_url 2019-12-24-music-n-talk-episode-1 %})
 
