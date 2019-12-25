@@ -41,3 +41,8 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+collections:
+  - MPC_Stuff
+  - Music_&_Talk
+      output: true
