@@ -1,14 +1,16 @@
 ---
 layout: post
-title:  "Music & Talk Season 1"
+title:  "Music & Talk: Season 1"
 date:   2019-12-24
 author: can
 ---
-## Music & Talk  
+## **Music & Talk**  
 ### Season 1: "Post Tech Diff"  
 
 
 ***
+
+&nbsp;  
 
 
 **Episode 1**  
