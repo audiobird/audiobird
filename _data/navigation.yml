@@ -1,10 +1,6 @@
-- name: Home
-  link: /
-- name: Blog
-  link: /blog.html
 - name: MPC Stuff
   link: /mpc-stuff.html
 - name: Music & Talk
   link: /music-n-talk.html
 - name: About
-  link: /about.html
+  link: /about.md
