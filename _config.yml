@@ -43,6 +43,10 @@ plugins:
 #   - vendor/ruby/
 
 collections:
-  - MPC_Stuff
-  - Music_&_Talk
+  - mpc_stuff:
       output: true
+	permalink: /mpc_stuff/:path/
+
+  - music_n_talk:
+	output: true
+	permalink: /music_&_talk/:path/
