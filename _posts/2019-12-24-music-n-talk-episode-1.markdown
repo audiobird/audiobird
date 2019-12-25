@@ -3,6 +3,7 @@ layout: post
 title:  "Music & Talk: Season 1"
 date:   2019-12-24
 author: can
+collection: music_n_talk
 ---
 ## **Music & Talk**  
 ### Season 1: "Post Tech Diff"  
