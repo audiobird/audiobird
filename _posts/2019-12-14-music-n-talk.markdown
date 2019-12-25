@@ -31,5 +31,5 @@ As far as we know, Music & Talk is the first podcast EVER to have live produced 
  conversation mixed with my production combine synergistically.
 
 **UPDATED 12/16**  
-
+[**Season 1 is here!**]({% post_url 2019-12-24-music-n-talk-episode-1 %})
 
