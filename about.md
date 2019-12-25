@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-## Audiobird
+### **Audiobird**
 
 There's not much more to say. As it sits, Audiobird is simply an idea. I've had many ideas. Some become amazing things I regret neglecting to document... and some become nothing. 
 
