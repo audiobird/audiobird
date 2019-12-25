@@ -43,10 +43,10 @@ plugins:
 #   - vendor/ruby/
 
 collections:
-  - mpc_stuff:
-      output: true
-	permalink: /mpc_stuff/:path/
+  cupcakes:
+    output: true
+    permalink: /cupcakes/:path/
 
-  - music_n_talk:
-	output: true
-	permalink: /music_&_talk/:path/
+  cupcakes:
+    output: true
+    permalink: /cupcakes/:path/
