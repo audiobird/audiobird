@@ -4,5 +4,7 @@
   link: /about.html
 - name: Blog
   link: /blog.html
-- name: Staff
-  link: /staff.html
+- name: MPC Stuff
+  link: /mpc-stuff.html
+- name: Music & Talk
+  link: /music-n-talk.html
