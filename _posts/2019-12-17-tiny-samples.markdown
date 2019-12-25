@@ -3,7 +3,7 @@ layout: post
 title:  "Tiny MPC1000 Instruments"
 date:   2019-12-17
 author: can
-category: mpc
+categories: mpc
 ---
 ## 13 instruments... only 2 mB!
 
