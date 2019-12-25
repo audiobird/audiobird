@@ -3,6 +3,7 @@ layout: post
 title:  "Yamaha PSS-460 Samples for MPC1000"
 date:   2019-10-06
 author: can
+categories: mpc
 ---
 ![Yamaha-photo](/assets/pss460.jpg) 
 

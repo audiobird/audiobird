@@ -3,6 +3,7 @@ layout: post
 title:  "MPC1000 Sound Design"
 date:   2019-07-10
 author: can
+categories: mpc
 ---
 I'm constantly surprised with the sound the MPC can produce, and this is one of the coolest patches I've made yet. I should note that I'm using **JJOS 2XL**. Ask anyone, it's worth 100 bucks.
 

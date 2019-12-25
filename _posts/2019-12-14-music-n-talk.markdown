@@ -3,6 +3,7 @@ layout: post
 title:  "Music & Talk isn't your Average Podcast"
 date:   2019-12-15
 author: can
+categories: mnt
 ---
 ## Music & Talk  
 

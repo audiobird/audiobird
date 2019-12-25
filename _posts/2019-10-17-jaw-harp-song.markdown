@@ -3,6 +3,7 @@ layout: post
 title:  "Jaw Harp (Oscilliscope Music Video)"
 date:   2019-10-17
 author: can
+categories: music
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7jHV7Nb7AjY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

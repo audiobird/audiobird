@@ -3,6 +3,7 @@ layout: post
 title:  "Electronic Mix"
 date:   2019-10-03
 author: can
+categories: music
 ---
 Here's a few electronic songs. Everything was produced with an MPC1000 and mostly synthesized with a "toy" Yamaha PSS-460 synthesizer. 
 
