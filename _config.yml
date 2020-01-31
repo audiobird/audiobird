@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Audiobird
-email: can.trell@audiobirdstereo.com
+email: can.trell@audiobird.studio
 description: >- # this means to ignore newlines until "baseurl:"
   Sound From Some Source. 
   Music, Production, Synthesizers, Speakers, Stuff.
