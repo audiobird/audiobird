@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "It's Really Greasy, Mommy"
+title:  "It's Really Greasy"
 date:   2019-12-27
 author: can
 categories: music
