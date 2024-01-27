@@ -18,10 +18,14 @@ public:
   void trig() { accumulator = 0; }
   void unTrig() { inc_step = 0; }
   void reset() { accumulator = inc_step = 0; }
-  void set(int8_t midi_note, int16_t pbend, int8_t pbendsemitones) {
+  void setMidiNote(int8_t midi_note) {
+    inc_step = Pst::fromMidiNote(midi_note);
+  }
+  void setMidiNote(int8_t midi_note, int16_t pbend, int8_t pbendsemitones) {
     inc_step = Pst::fromMidiNote(midi_note, pbend, pbendsemitones);
   }
-  void set(float voltage) { inc_step = Pst::fromVoltage(voltage); }
+  void setMidiNote(float midi_note) { inc_step = Pst::fromMidiNote(midi_note); }
+  void setVoltage(float voltage) { inc_step = Pst::fromVoltage(voltage); }
 
 private:
   type accumulator;
