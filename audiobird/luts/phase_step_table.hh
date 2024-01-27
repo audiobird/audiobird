@@ -3322,7 +3322,7 @@ public:
     static constexpr type fromVoltage(float voct) {
       constexpr auto num_octaves = 128 / 12.f;
       constexpr auto v = 128 / num_octaves;
-      return fromMidiNote(std::clamp(voct * v, 0.f, 127.f));
+      return fromMidiNote(std::clamp((voct * v) + 60, 0.f, 127.f));
     }
   };
 };
